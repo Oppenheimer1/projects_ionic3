@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+	<ion-item>
+		<ion-label floating>Name</ion-label>
+		<ion-input type="text"[(ngModel)] = "personName"></ion-input>
+	</ion-item>
+
+
+	<button ion-button block clear (click) ="showGreeting(personName)">Show Greeting</button>
+
+</ion-content>
