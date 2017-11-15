@@ -1,6 +1,6 @@
 {
-  "name": "ionic2-app-base",
-  "app_id": "",
+  "name": "IonicCalendarApp",
+  "app_id": "9c1ec137",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}

@@ -1,6 +1,6 @@
 {
-  "name": "ionic2-app-base",
-  "app_id": "",
+  "name": "IonicBarcodeApp",
+  "app_id": "41f4e1f4",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}

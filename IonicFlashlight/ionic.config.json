@@ -1,6 +1,6 @@
 {
-  "name": "ionic2-app-base",
-  "app_id": "",
+  "name": "IonicFlashlight",
+  "app_id": "a79fab22",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
